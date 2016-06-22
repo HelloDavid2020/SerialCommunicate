@@ -16,3 +16,11 @@ G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\Se
 G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
 E:\BaiduYunDownload\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
 E:\BaiduYunDownload\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\SmallMoves\Documents\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\SmallMoves\Documents\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\SmallMoves\Documents\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\SmallMoves\Documents\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\SmallMoves\Documents\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\SmallMoves\Documents\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\SmallMoves\Documents\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\SmallMoves\Documents\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
